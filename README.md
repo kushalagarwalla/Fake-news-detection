@@ -1,5 +1,5 @@
-#Fake News Detection
-##Goal
+#Fake News Detection\
+##Goal\
 Classifition of Fake News articles using various Machine Learning algorithms and Natural Language Processing (NLP) techniques.\
 ##Prerequisite
 The following softwares and libraries are required in order to run this project:\
@@ -21,6 +21,7 @@ The dataset used in this repository is taken from Kaggle. It contains the follow
 * Label: a label that marks the article as potentially unreliable\
 	* 1:Real\
 	* 0:Fake\
+
 \link: https://www.kaggle.com/jruvika/fake-news-detection
 
 
