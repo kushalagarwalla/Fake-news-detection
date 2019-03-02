@@ -21,10 +21,5 @@ The dataset used in this repository is taken from Kaggle. It contains the follow
 * Label: a label that marks the article as potentially unreliable
 	* 1:Real
 	* 0:Fake
-<<<<<<< HEAD
-=======
-	
->>>>>>> 29df3cbdd2ea8153e317331bdb73fabc4fa436c1
+
 link: https://www.kaggle.com/jruvika/fake-news-detection
-
-
