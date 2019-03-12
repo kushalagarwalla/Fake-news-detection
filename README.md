@@ -1,6 +1,6 @@
 # Fake News Detection
 ## Goal
-Classifition of Fake News articles using various Machine Learning algorithms and Natural Language Processing (NLP) techniques.
+Classification of Fake News articles using various Machine Learning algorithms and Natural Language Processing (NLP) techniques.
 ## Prerequisite
 The following softwares and libraries are required in order to run this project:
 * Python 3.6 (https://www.python.org/download)
